@@ -1,5 +1,5 @@
 import React from "react";
-import { render, fireEvent } from "@/test/testUtils";
+import { render, fireEvent } from "@/tests/testUtils";
 import Home from "@/pages/index";
 
 describe("Home page", () => {
