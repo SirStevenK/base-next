@@ -1,0 +1,10 @@
+{
+  "intro": {
+    "welcome": "Bienvenue, {{username}}!",
+    "text": "J'espère que vous trouvez ça utile",
+    "description": "Exemple Desc Intro FR"
+  },
+  "dashboard": {
+    "description": "Exemple Desc Dashboard FR"
+  }
+}
