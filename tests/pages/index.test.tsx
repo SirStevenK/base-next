@@ -4,7 +4,7 @@ import Home from "@/pages/index";
 
 describe("Home page", () => {
   it("matches snapshot", () => {
-    const { asFragment } = render(<Home lngDict={{}} lng="" />, {});
+    const { asFragment } = render(<Home lng="" />, {});
     expect(asFragment()).toMatchSnapshot();
   });
 
